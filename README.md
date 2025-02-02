@@ -8,6 +8,8 @@
 
 ![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=max-taylor&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max-taylor)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **max-taylor/max-taylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
