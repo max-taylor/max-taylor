@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on anything interesting in Rust
 - 👯 I’m looking to collaborate on Rust projects
 
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/maxtaylor)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=max-taylor&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true&card_width=320" />
 </a>
