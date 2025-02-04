@@ -1,15 +1,13 @@
 ## Hi there
 
-- 🔭 I’m currently working on anything interesting in Rust
-- 👯 I’m looking to collaborate on Rust projects
-
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@maxtaylordev)
+[![Personal site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.maxtaylor.me/)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/maxtaylor)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@maxjt11)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/max_t_dev)
-[![Personal site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.maxtaylor.me/)
 
-
+- 🔭 I’m currently working on anything interesting in Rust
+- 👯 I’m looking to collaborate on Rust projects
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=max-taylor&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true&card_width=320" />
